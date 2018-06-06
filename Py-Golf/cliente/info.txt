@@ -1,0 +1,30 @@
+Bienvenido a PyGolf,
+Hay dos modos de juego OFFLINE, y ONLINE. 
+Puedes cambiar estos modos con el boton ubicado en la parte superior derecha.
+
+------------
+Modo OFFLINE
+------------
+
+En este modo el jugador debe, con un unico tiro, hacer que la pelota entre en el hoyo.
+Luego de cada intento fallido, se volvera a reiniciar el juego para volver a intentarlo.
+
+Para variar la direccion de la pelota y su fuerza, utiliza el MOUSE.
+Para cancelar la jugada antes de tiempo, utiliza ESCAPE.
+
+* En la seccion PARTIDA podras seleccionar el mapa que quieres jugar.
+* En la seccion CREADOR puedes crear tus propios mapas y jugarlos.
+* Puedes ver los mas altos puntajes en cada mapa en la seccion SCORE.
+
+-----------
+Modo ONLINE
+-----------
+
+En una partida ONLINE, los usuarios se turnan y tienen tantos intentos como se haya configurado al crear la partida. El primero en llegar al hoyo gana, deben buscar acercarse con cada tiro.
+
+* Es necesario que un servidor este activo, ve a la seccion SERVER y conectate a uno.
+* Es necesario haberse conectado con una cuenta dentro del servidor, para ser identificado
+y tener un registro de puntos. Ve a la seccion CUENTA para registrarte o conectarte.
+* En la seccion SCORE podras ver el ranking de los 10 mejores puntajes del servidor.
+* En la seccion CHAT podras ver que usuarios estan conectados e intercambiar mensajes con ellos.
+* En la seccion PARTIDA podras crear una partida online contra los jugadores que vos quieras, seleccionando el mapa y la cantidad maxima de intentos.
