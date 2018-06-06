@@ -1,0 +1,6 @@
+a=input("Ingrese frase: ")
+print(a)
+print("Las primeras 5 letras son: ")
+print(a[:5])
+print("Cantidad de letras: ")
+print(len(a))
